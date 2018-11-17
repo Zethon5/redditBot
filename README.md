@@ -2,7 +2,7 @@
 THIS IS MY FIRST REDDIT BOT
 
 This bot is a fully functional reddit bot. The bot in this folder is associated with the account
-/u/XXXXXX (Censored for privacy reasons.
+/u/XXXXXX (Censored for privacy).
 
 This bot is capable of going through the comments in the r/FocusST subreddit and welcoming users 
 if it believes they posted about recently picking up a Focus ST. This bot is also capable of running 
